@@ -1,0 +1,5 @@
+{
+  "name": "Pixel Battle",
+  "description": "A modern remake of a classic side-scrolling shooter game, rebuilt with React and Tailwind CSS. Dodge enemies, collect powerful upgrades, and fight for the high score in this fast-paced pixel art adventure.",
+  "requestFramePermissions": []
+}
